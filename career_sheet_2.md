@@ -79,7 +79,7 @@ Last Update: 2018-10-29
   * オンプレ環境への導入だったため、サーバの搬入、設置、セットアップを行いました。
   * 長期にわたるシステムの運用に伴い、フレームワークやJavaのアップデート作業、OracleからPostgreSQLへのデータ移行なども経験しました。
 * 主要技術
-  * Linux(RHES)
+  * Linux(RHEL)
   * Java - tomcat - struts
   * Apache
   * Subversion -> Git
@@ -101,7 +101,7 @@ Last Update: 2018-10-29
   * 購買情報を元にしたビックデータの解析・検証作業を行いました。
   * 異なる購買情報源を繋げて分析する、統計学の研究のうち、具体的なデータの分析などの補佐を行いました。
 * 主要技術
-  * Linux(RHES)
+  * Linux(RHEL)
   * Matlab, perl,shell
   * PostgreSQL 
 
@@ -126,7 +126,7 @@ Last Update: 2018-10-29
   * 研究色の強いプロジェクトでしたが、研究者の方の話を聞きアプリケーションやシステムに落とし込む経験が積めました。
   * また、Androidの具体的な実装や性能の限界についての知見はかなり得られたと考えます。
 * 主要技術
-  * Linux(RHES)
+  * Linux(RHEL)
   * Java(Android)
   * nodejs
   * Subversion
