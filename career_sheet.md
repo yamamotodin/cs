@@ -17,6 +17,7 @@ Supported:
   * Databases[PostgreSQL, Oracle, MySQL，SQL Server]
   * SCMs[git*, svn, cvs, vsc]
   * Cloud Platforms[AWS, Azure, GCP]
+  * VM/Container[Docker, KVM, VMWare]
   * DevOps/CI[Jenkins, SonarQube]
   * Develop Management[JIRA, GitLab, Backlog]
 
