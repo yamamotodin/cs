@@ -1,5 +1,5 @@
 # Career Sheet
-Last Update: 2018-10-13
+Last Update: 2018-11-19
 
 ## Profile
 Name: DY  
@@ -33,4 +33,4 @@ Supported:
 * Network Analyatics
   * システムとネットワークを俯瞰して捉え、プロトコルやログ解析などから問題点を洗い出す作業を得意とします。
 * Protocol Analystics
-  * UDP, TCP/IPやSSL/TLSなど、ネットワークプロトコルスタックに対する基本的な理解と新たなプロトコルと実装に対する習熟速度が早い。
+  * UDP, TCP/IPやSSL/TLSなど、ネットワークプロトコルスタックに対する基本的な理解と新たなプロトコルと実装に対する習熟速度が早い傾向にあります。
