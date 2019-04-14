@@ -15,7 +15,9 @@ Last Update: 2019-04-14
     * 管理系: アジャイル型開発にウォーターフォールの理論を持ち込み危うくプロジェクトを破綻させかけていたので顧客要望により何人かを罷免、配置転換しプロジェクトをアジャイルとしてあるべき姿に回帰させました。
   * 主要技術
     * Java 11
-      * Spring Boot 2.0.5 / Mybatis / PostgreSQL / Swagger / Maven / AWS 
+      * Spring Boot 2.0.5 / Mybatis  / Maven / AWS 
+    * PostgreSQL
+    * Swagger
     * GitLab
     * Jenkins
     * Atlasian JIRA, Conference, Mattermost
