@@ -17,6 +17,7 @@ Supported:
   * Databases[PostgreSQL, Oracle, MySQL，SQL Server]
   * SCMs[git*, svn, cvs, vsc]
   * Cloud Platforms[AWS, Azure, GCP]
+  * VM/Container[Docker, KVM, VMWare]
   * DevOps/CI[Jenkins, SonarQube]
   * Develop Management[JIRA, GitLab, Backlog]
   * AWS[S3, Route53, ELB, EC2, ElastiCache, ECS/ECR, BATCH, Autora(PostgreSQL, MySQL), CloudWatch]
@@ -35,3 +36,5 @@ Supported:
   * システムとネットワークを俯瞰して捉え、プロトコルやログ解析などから問題点を洗い出す作業を得意とします。
 * Protocol Analystics
   * UDP, TCP/IPやSSL/TLSなど、ネットワークプロトコルスタックに対する基本的な理解と新たなプロトコルと実装に対する習熟速度が早く、そのつながりを理解する精度がとても高い。
+* Cloud Engineer
+  * 各種クラウドにおいて、その特性を理解しサービスの扱いについてアーキテクチャを組み立てることができ、操作構築は中級程度の習熟度があります。
