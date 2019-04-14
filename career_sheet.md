@@ -1,5 +1,5 @@
 # Career Sheet
-Last Update: 2018-10-13
+Last Update: 2019-04-14
 
 ## Profile
 Name: DY  
@@ -8,10 +8,10 @@ Gender: Male
 Mail: -----@----------.--.jp
 
 Supported:
-  * OS[Linux(RHEL, Fedora, AWS), Windows(not Server), MacOS(10, 11), Solaris(8)]
+  * OS[Linux(Amazon, RHEL, Fedora), Windows(not Server), MacOS(10, 11), Solaris(8)]
   * OS(Modile)[Android, Linux]
   * Languages[Java(8), JavaScript(ECMAScript 2015), sh, perl, C, C#, php, ttcn3]
-    * Framework(Java)[Spring(Boot,Roo), tomcat, vertx, struts]
+    * Framework(Java)[Spring(Boot), tomcat, vertx, struts]
     * Framework-JavaScript[node+express]
   * IDEs[IntelliJ, Eclipse, Visual Studio]
   * Databases[PostgreSQL, Oracle, MySQL，SQL Server]
@@ -19,6 +19,7 @@ Supported:
   * Cloud Platforms[AWS, Azure, GCP]
   * DevOps/CI[Jenkins, SonarQube]
   * Develop Management[JIRA, GitLab, Backlog]
+  * AWS[S3, Route53, ELB, EC2, ElastiCache, ECS/ECR, BATCH, Autora(PostgreSQL, MySQL), CloudWatch]
 
 ## Specialty Skills(特技)
 * Architect
@@ -28,8 +29,9 @@ Supported:
   * スタブ作成やちょっとした集計などの隙間言語として LinuxのCIかJavaScript を好んで使います。
   * 基本・詳細・実装、テスト、運用工程の知識と経験を持ち合わせています。
 * Agile Scrum
-  * スクラム好きです。振り返らない、時間どおりに会議が始まらない、見積もりがなってないのうち２つ以上を企業文化として持つ会社には長居しません、お気をつけください。
+  * スクラムを解しスクラムマスターを遂行可能です。
+  * 振り返らない、時間どおりに会議が始まらない、見積もりがなってないのうち２つ以上を企業文化として持つ会社には長居しません、お気をつけください。
 * Network Analyatics
   * システムとネットワークを俯瞰して捉え、プロトコルやログ解析などから問題点を洗い出す作業を得意とします。
 * Protocol Analystics
-  * UDP, TCP/IPやSSL/TLSなど、ネットワークプロトコルスタックに対する基本的な理解と新たなプロトコルと実装に対する習熟速度が早い。
+  * UDP, TCP/IPやSSL/TLSなど、ネットワークプロトコルスタックに対する基本的な理解と新たなプロトコルと実装に対する習熟速度が早く、そのつながりを理解する精度がとても高い。
