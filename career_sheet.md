@@ -1,9 +1,9 @@
 # Career Sheet
-Last Update: 2019-04-14
+Last Update: 2019-06-14
 
 ## Profile
 Name: DY  
-Age: 38  
+Age: 39
 Gender: Male  
 Mail: -----@----------.--.jp
 
@@ -25,6 +25,7 @@ Supported:
 ## Specialty Skills(特技)
 * Architect
   * 開発標準を推進、指導する立場として、各種の業務を行ってきました。
+  * 開発からインフラや運用のこと見据えを考え、橋渡しをする役割が担えます。
 * Programmer
   * 標準的なJavaのプログラマです、コンパイラのバグを疑うときはOpenJDKのコードを読みますがOpenJDKの開発者ではありません。P
   * スタブ作成やちょっとした集計などの隙間言語として LinuxのCIかJavaScript を好んで使います。
