@@ -10,7 +10,7 @@ Mail: -----@----------.--.jp
 Supported:
   * OS[Linux(Amazon, RHEL, Fedora), Windows(not Server), MacOS(10, 11), Solaris(8)]
   * OS(Modile)[Android, Linux]
-  * Languages[Java(8), JavaScript(ECMAScript 2015), sh, perl, C, C#, php, ttcn3]
+  * Languages[Java(11), JavaScript(ECMAScript 2015), sh, perl, C, C#, php, ttcn3]
     * Framework(Java)[Spring(Boot), tomcat, vertx, struts]
     * Framework-JavaScript[node+express]
   * IDEs[IntelliJ, Eclipse, Visual Studio]
