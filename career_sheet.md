@@ -1,5 +1,5 @@
 # Career Sheet
-Last Update: 2019-06-14
+Last Update: 2019-08-04
 
 ## Profile
 Name: DY  
@@ -20,7 +20,7 @@ Supported:
   * VM/Container[Docker, KVM, VMWare]
   * DevOps/CI[Jenkins, SonarQube]
   * Develop Management[JIRA, GitLab, Backlog]
-  * AWS[S3, Route53, ELB, EC2, ElastiCache, ECS/ECR, BATCH, Autora(PostgreSQL, MySQL), CloudWatch]
+  * AWS[S3, Route53, ELB, EC2, ElastiCache, ECS/ECR, BATCH, Autora(PostgreSQL, MySQL), CloudWatch, CodeCommit]
 
 ## Specialty Skills(特技)
 * Architect
