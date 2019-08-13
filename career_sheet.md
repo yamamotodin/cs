@@ -20,7 +20,7 @@ Supported:
   * VM/Container[Docker, KVM, VMWare]
   * DevOps/CI[Jenkins, SonarQube]
   * Develop Management[JIRA, GitLab, Backlog]
-  * AWS[S3, Route53, ELB, EC2, ElastiCache, ECS/ECR, BATCH, Autora(PostgreSQL, MySQL), CloudWatch, CodeCommit]
+  * AWS[S3, Route53, ELB, EC2, ElastiCache, ECS/ECR, BATCH, Autora(PostgreSQL, MySQL), CloudWatch, CodeCommit、API Gateway]
 
 ## Specialty Skills(特技)
 * Architect
