@@ -20,7 +20,7 @@ Supported:
   * VM/Container[Docker, KVM, VMWare]
   * DevOps/CI[Jenkins, SonarQube]
   * Develop Management[JIRA, GitLab, Backlog]
-  * AWS[S3, Route53, ELB, EC2, ElastiCache, ECS/ECR, BATCH, Autora(PostgreSQL, MySQL), CloudWatch, CodeCommit、API Gateway]
+  * AWS(サービス別スキルマップを後述)
 
 ## Specialty Skills(特技)
 * Architect
@@ -39,3 +39,26 @@ Supported:
   * UDP, TCP/IPやSSL/TLSなど、ネットワークプロトコルスタックに対する基本的な理解と新たなプロトコルと実装に対する習熟速度が早く、そのつながりを理解する精度がとても高い。
 * Cloud Engineer
   * 各種クラウドにおいて、その特性を理解しサービスの扱いについてアーキテクチャを組み立てることができ、操作構築は中級程度の習熟度があります。
+
+## AWS Service Skillmap
+* Level A 構築したことがある。新規で立ち上げができ、サービスの詳細を把握し他のサービスとの連携や周辺設定が可能。
+* Level B 既に構築されているものに手を加えることをしたことがある、複数ある機能のうちいくつかを限定的に利用していた
+* Level C 動作するところを見たことがある、遠隔で使ったことがある
+
+|Service  |Level  |Description  |
+|---|---|---|
+|S3  |A  |ほぼ完全に把握  |
+|Route53  |B  |利用してドメインを取得、他のドメインを移設したことがある  |
+|ELB/ALB  | A | EC2やサブネットの接続点として利用したことがあり、SSL証明書の話も把握  |6  |
+|EC2  |A  |説明不要  |
+|ElastiCache  |B  |Redisとしてセッション情報の置き場として利用 |
+|ECS/ECR  |B  |コンテナエンジンとして利用 アプリのCIからCDまで実施  |
+|BATCH  |B |限定的に利用  |
+|Autora(PostgreSQL, MySQL)  |A  |DB  |
+|CloudWatch  |B  |開発者として主にログなどの監視で利用  |
+|CodeCommit  |A  |AWSの中で他のサービスと連携するためにGitのレポジトリとして利用  |
+|API Gateway  |B  |REST APIのリバースプロクシや、lambdaを使いBFFとして利用 |
+|Amplify  |A  |Reactプロジェクトを立ち上げて配備する  |
+|Cognito  |B  |  |
+|Lambda | A | いろいろなサービスから呼び出して利用 |
+
