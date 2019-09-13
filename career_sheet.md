@@ -1,5 +1,5 @@
 # Career Sheet
-Last Update: 2019-08-04
+Last Update: 2019-09-13
 
 ## Profile
 Name: DY  
@@ -33,7 +33,7 @@ Supported:
 * Agile Scrum
   * スクラムを解しスクラムマスターを遂行可能です。
   * 振り返らない、時間どおりに会議が始まらない、見積もりがなってないのうち２つ以上を企業文化として持つ会社には長居しません、お気をつけください。
-* Network Analyatics
+* Network Analystics
   * システムとネットワークを俯瞰して捉え、プロトコルやログ解析などから問題点を洗い出す作業を得意とします。
 * Protocol Analystics
   * UDP, TCP/IPやSSL/TLSなど、ネットワークプロトコルスタックに対する基本的な理解と新たなプロトコルと実装に対する習熟速度が早く、そのつながりを理解する精度がとても高い。
@@ -47,6 +47,7 @@ Supported:
 
 |Service  |Level  |Description  |
 |---|---|---|
+|VPC  |A  |Region, AZ, VPC, Subnetとネットワークのつなぎ込み。そこに根付く非サーバレス環境の構築・運用方法を把握|
 |S3  |A  |ほぼ完全に把握  |
 |Route53  |B  |利用してドメインを取得、他のドメインを移設したことがある  |
 |ELB/ALB  | A | EC2やサブネットの接続点として利用したことがあり、SSL証明書の話も把握  |6  |
