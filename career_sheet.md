@@ -36,7 +36,7 @@ Supported:
 * Network Analystics
   * システムとネットワークを俯瞰して捉え、プロトコルやログ解析などから問題点を洗い出す作業を得意とします。
 * Protocol Analystics
-  * UDP, TCP/IPやSSL/TLSなど、ネットワークプロトコルスタックに対する基本的な理解と新たなプロトコルと実装に対する習熟速度が早く、そのつながりを理解する精度がとても高い。
+  * UDP, TCP/IPやSSL/TLS更にその上位レイヤーなど、ネットワークプロトコルスタックに対する基本的な理解と新たなプロトコルと実装に対する習熟速度が早く、そのつながりを理解する精度がとても高い。
 * Cloud Engineer
   * 各種クラウドにおいて、その特性を理解しサービスの扱いについてアーキテクチャを組み立てることができ、操作構築は中級程度の習熟度があります。
 
@@ -48,18 +48,19 @@ Supported:
 |Service  |Level  |Description  |
 |---|---|---|
 |VPC  |A  |Region, AZ, VPC, Subnetとネットワークのつなぎ込み。そこに根付く非サーバレス環境の構築・運用方法を把握|
-|S3  |A  |ほぼ完全に把握  |
+|S3  |A  | ほぼ完全に把握  |
 |Route53  |B  |利用してドメインを取得、他のドメインを移設したことがある  |
 |ELB/ALB  | A | EC2やサブネットの接続点として利用したことがあり、SSL証明書の話も把握  |6  |
 |EC2  |A  |説明不要  |
 |ElastiCache  |B  |Redisとしてセッション情報の置き場として利用 |
 |ECS/ECR  |B  |コンテナエンジンとして利用 アプリのCIからCDまで実施  |
 |BATCH  |B |限定的に利用  |
-|Autora(PostgreSQL, MySQL)  |A  |DB  |
+|Auｒora(PostgreSQL, MySQL)  |A  | DB(MySQL 5.６， ５.7)  |
 |CloudWatch  |B  |開発者として主にログなどの監視で利用  |
 |CodeCommit  |A  |AWSの中で他のサービスと連携するためにGitのレポジトリとして利用  |
 |API Gateway  |B  |REST APIのリバースプロクシや、lambdaを使いBFFとして利用 |
 |Amplify  |A  |Reactプロジェクトを立ち上げて配備する  |
 |Cognito  |B  |  |
 |Lambda | A | いろいろなサービスから呼び出して利用 |
-
+|SQS | A | キューイング機構について、fifoの有無と実装からの利用 |
+|IAM | B+ | ロールとユーザなどの関係、使いみちについて把握 |
