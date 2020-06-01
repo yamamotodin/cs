@@ -1,5 +1,5 @@
 # Career Sheet(2/2)
-Last Update: 2020-6-01
+Last Update: 2020-06-01
 
 ## Careers
 
