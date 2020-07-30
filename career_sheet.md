@@ -56,7 +56,7 @@ Supported:
 |ElastiCache  |B  |Redisとしてセッション情報の置き場として利用 |
 |ECS/ECR  |B  |コンテナエンジンとして利用 アプリのCIからCDまで実施  |
 |BATCH  |B |限定的に利用  |
-|Auｒora(PostgreSQL, MySQL)  |A  | DB(MySQL 5.６， ５.7)  |
+|Aurora(PostgreSQL, MySQL)  |A  | DB(MySQL 5.6, ５.7)  |
 |CloudWatch  |B  |開発者として主にログなどの監視で利用  |
 |CodeCommit  |A  |AWSの中で他のサービスと連携するためにGitのレポジトリとして利用  |
 |API Gateway  |B  |REST APIのリバースプロクシや、lambdaを使いBFFとして利用 |
