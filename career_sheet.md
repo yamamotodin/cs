@@ -9,17 +9,18 @@ Mail: -----@----------.--.jp
 
 Supported:
   * OS[Linux(Amazon, RHEL, Fedora), Windows(not Server), MacOS(10, 11), Solaris(8)]
-  * OS(Modile)[Android, Linux]
-  * Languages[Java(11), JavaScript(ECMAScript 2015), sh, perl, C, C#, php, ttcn3]
+  * OS(Modile)[Android, ios, Linux]
+  * Languages[Java(11), JavaScript(ECMAScript 2015), Dart, sh, perl, C, C#, php, ttcn3]
     * Framework(Java)[Spring(Boot), tomcat, vertx, struts]
     * Framework-JavaScript[node+express]
+    * Framework(Mobile)[Flutter]
   * IDEs[IntelliJ, Eclipse, Visual Studio]
   * Databases[PostgreSQL, Oracle, MySQL，SQL Server]
   * SCMs[git*, svn, cvs, vsc]
   * Cloud Platforms[AWS, Azure, GCP]
-  * VM/Container[Docker, KVM, VMWare]
+  * VM/Container[Kubernetes, Docker, KVM, VMWare]
   * DevOps/CI[Jenkins, SonarQube]
-  * Develop Management[JIRA, GitLab, Backlog]
+  * Develop Management[Confluence, JIRA, GitLab, Backlog]
   * AWS(サービス別スキルマップを後述)
 
 ## Specialty Skills(特技)
@@ -64,3 +65,4 @@ Supported:
 |Lambda | A | いろいろなサービスから呼び出して利用 |
 |SQS | A | キューイング機構について、fifoの有無と実装からの利用 |
 |IAM | B+ | ロールとユーザなどの関係、使いみちについて把握 |
+|EKS | B | Kubernetes, Ingress, AWSインフラとのつなぎ込みで一通りのインフラ構築を経験 |
