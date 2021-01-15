@@ -1,5 +1,5 @@
 # Career Sheet
-Last Update: 2020-07-30
+Last Update: 2021-01-01
 
 ## Profile
 Name: DY  
@@ -19,7 +19,7 @@ Supported:
   * SCMs[git*, svn, cvs, vsc]
   * Cloud Platforms[AWS, Azure, GCP]
   * VM/Container[Kubernetes, Docker, KVM, VMWare]
-  * DevOps/CI[Jenkins, SonarQube]
+  * DevOps/CI[Jenkins, SonarQube, Concourse CI]
   * Develop Management[Confluence, JIRA, GitLab, Backlog]
   * AWS(サービス別スキルマップを後述)
 

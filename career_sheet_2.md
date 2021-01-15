@@ -13,6 +13,7 @@ Last Update: 2021-01-01
   * アプリはFlutterでios, androidのクロスプラットフォーム開発の実装
   * バックエンドは Spring Boot 2.3系
   * ストレージは RDBMS(AWS RDS), AWS S3
+  * CI/CDとしてConcourse CIを利用しました。
   * JWTによる認証系一式の設計・実装を行いました
   * インフラは AWS
   * AWS EKS を用いて Kubernetes を主体としたインフラ構築を行いました、そのためk8sのおおよその構築と概要は把握済みです
