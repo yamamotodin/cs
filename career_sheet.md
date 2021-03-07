@@ -1,16 +1,16 @@
 # Career Sheet
-Last Update: 2021-01-01
+Last Update: 2021-03-01
 
 ## Profile
 Name: DY  
-Age: 41  
+Age: 41
 Gender: Male  
 Mail: yamamotodin@gmail.com
 
 Supported:
   * OS[Linux(Amazon, RHEL, Fedora), Windows(not Server), MacOS(10, 11), Solaris(8)]
   * OS(Modile)[Android, ios, Linux]
-  * Languages[Java(11), JavaScript(ECMAScript 2015), Dart, sh, perl, C, C#, php, ttcn3]
+  * Languages[Java(11), JavaScript(ECMAScript 2015), Dart, sh, python, perl, C, C#, php, ttcn3]
     * Framework(Java)[Spring(Boot), tomcat, vertx, struts]
     * Framework-JavaScript[node+express]
     * Framework(Mobile)[Flutter]
@@ -19,7 +19,7 @@ Supported:
   * SCMs[git*, svn, cvs, vsc]
   * Cloud Platforms[AWS, Azure, GCP]
   * VM/Container[Kubernetes, Docker, KVM, VMWare]
-  * DevOps/CI[Jenkins, SonarQube, Concourse CI]
+  * DevOps/CI[Jenkins, SonarQube, Concourse CI, Github Actions]
   * Develop Management[Confluence, JIRA, GitLab, Backlog]
   * AWS(サービス別スキルマップを後述)
 
