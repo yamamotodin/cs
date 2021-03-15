@@ -1,5 +1,5 @@
 # Career Sheet
-Last Update: 2021-03-01
+Last Update: 2021-03-15
 
 ## Profile
 Name: DY  
@@ -48,7 +48,8 @@ Supported:
 
 |Service  |Level  |Description  |
 |---|---|---|
-|VPC  |A  |Region, AZ, VPC, Subnetとネットワークのつなぎ込み。そこに根付く非サーバレス環境の構築・運用方法を把握|
+|VPC  |A  |Region, AZ, VPC, Subnet, Endpoint とネットワークのつなぎ込み。そこに根付く非サーバレス環境の構築・運用方法を把握|
+/VPN / A / VPN Clientの環境を構築 /
 |S3  |A  | AWSはS3に始まりS3に終わる  |
 |Route53  |B  |利用してドメインを取得、他のドメインを移設したことがある  |
 |ACM | B | SSL証明書の発行とRoute53との連携 |
@@ -58,11 +59,11 @@ Supported:
 |ECS/ECR  |A  |コンテナエンジン、イメージ置き場として日常的に利用  |
 |CloudWatch  |B  | Event:開発者として主にログなどの監視で利用 Rule:定期バッチの実行等で利用 |
 |CodeCommit  |A  |AWSの中で他のサービスと連携するためにGitのレポジトリとして利用  |
-|API Gateway  |B  |REST APIのリバースプロクシや、lambdaを使いBFFとして利用 |
-|Amplify  |A  |Reactプロジェクトを立ち上げて配備する  |
+|API Gateway  |A  |REST APIのリバースプロクシや、lambdaを使いBFFとして利用 |
+|Amplify  | A  |Reactプロジェクトを立ち上げて配備する  |
 |Lambda | A | いろいろなサービスから呼び出して利用 sh, javam python等で記述デプロイ、VPCや各種サービスとのつなぎを把握 |
 |RDS | A | RDS, Auroraの運用、構築経験あり PostgreSQL9系列、MySQL 5.6, 5.7の構築管理運用等  |
 |SQS | A | キューイング機構について、fifoの有無と実装からの利用 |
-|IAM | B+ | ロールとユーザなどの関係、サービスとのつなぎこみ |
+|IAM | A | ロールとユーザなどの関係、サービスとのつなぎこみ |
 |EKS | A | Kubernetes, Ingress, AWSインフラとのつなぎ込みで一通りのインフラ構築を経験 |
 |SES | B+ | SDKから利用 |
