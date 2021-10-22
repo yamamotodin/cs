@@ -5,7 +5,7 @@ Last Update: 2021-10-04
 Name: DY  
 Age: 41
 Gender: Male  
-Mail: yamamotodin@gmail.com
+Mail: yamamotodin@gmail.com  
 MBTI: ESTP-A
 
 Supported:
@@ -49,7 +49,7 @@ Supported:
 |Service  |Level  |Description  |
 |---|---|---|
 |VPC  |A  |Region, AZ, VPC, Subnet, Endpoint とネットワークのつなぎ込み。そこに根付く非サーバレス環境の構築・運用方法を把握|
-/VPN / A / VPN Clientの環境を構築 /
+|VPN | A | VPN Clientの環境を構築 |
 |S3  |A  | S3はさまざまなサービスと結びつくことが多く、その利用法のかなりの部分を理解しています |
 |Route53  |B  |利用してドメインを取得、他のドメインを移設したことがあります |
 |ACM | B | SSL証明書の発行とRoute53との連携 |
