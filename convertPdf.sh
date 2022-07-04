@@ -1,5 +1,11 @@
 #!/bin/sh
 
+if ! which npm ; then
+  echo "install 'npm'";
+  exit
+fi
+
+
 npm install -g markdown-pdf
 markdown-pdf career_sheet.md -o career_sheet.pdf
 markdown-pdf career_sheet_2.md -o career_sheet_2.pdf
