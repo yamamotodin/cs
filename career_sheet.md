@@ -1,5 +1,5 @@
 # Career Sheet
-Last Update: 2022-07-04
+Last Update: 2022-08-04
 
 ## Profile
 Name: DY  
@@ -73,4 +73,5 @@ Supported:
 |EKS | A | Kubernetes, Ingress, AWSインフラとのつなぎ込みで一通りのインフラ構築を経験                         |
 |SES | B | SQS, Lambdaと組み合わせて利用しています                                                 |
 |EKS | A | クラスタの設計や構築、各種サービスとのつなぎこみなど一通り経験                                           |
+|CDK | A | IaCの実施                                           |
 |PrivateLink | B | publicなendpointを経由せず、各種サービスへのつなぎこみを行えます                                   |
