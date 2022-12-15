@@ -1,5 +1,5 @@
 # Career Sheet
-Last Update: 2022-08-04
+Last Update: 2022-12-15
 
 ## Profile
 Name: DY  
@@ -9,22 +9,24 @@ Mail: yamamotodin@gmail.com
 MBTI: ESTP-A
 
 Supported:
-  * OS[Linux(Amazon, RHEL, Fedora), Windows(not Server), MacOS(10, 11), Solaris(8)]
+  * OS[Linux(Amazon, RHEL, Fedora), Windows(not Server), MacOS(10, 11, 12), Solaris(8)]
   * OS(Modile)[Android, ios, Linux]
-  * Languages[Java(8,11), JavaScript(ECMAScript 2015), TypeScript(Beginner), Dart, sh, python, perl, C, C#, php, ttcn3]
-    * Framework(Java)[Spring(Boot), tomcat, vertx, struts]
-    * Framework-JavaScript[node+express]
-    * Framework(Mobile)[Flutter]
-    * Framework(Serverless)[JavaScript, TypeScript]
+  * Languages[TypeScript/JavaScript(ECMAScript 2015), ~~Java(8,11,17)~~, Dart, sh, python, perl, C, C#, php, ttcn3]
+    * Framework-JavaScript[node+express + prisma]
+    * Framework(Mobile)[Flutter, Android API]
+    * Framework(Serverless)[TypeScript]
     * Framework(Node.js)[JavaScript, TypeScript]
+    * ~~Framework(Java)[Spring(Boot)+mybatis|dao, tomcat, struts]~~
   * IDEs[IntelliJ, Eclipse, Visual Studio]
   * Databases[PostgreSQL, Oracle, MySQL，SQL Server]
   * SCMs[git*, svn, cvs, vsc]
-  * Cloud Platforms[AWS, Azure, GCP]
-  * VM/Container[Kubernetes, Docker, KVM, VMWare]
-  * DevOps/CI[Jenkins, SonarQube, Concourse CI, Github Actions]
-  * Develop Management[Confluence, JIRA, GitLab, Backlog]
+  * Cloud Platforms[AWS, Azure]
+  * VM/Container[Kubernetes, Docker(containerd), KVM, VMWare]
+  * DevOps/CI[Github Actions, Jenkins, Concourse CI]
+  * Develop Management[Notion, Confluence, JIRA, Monday, GitLab, Backlog]
   * AWS(サービス別スキルマップを後述)
+  * IaC[CDK, CDKTF, ARM Template]
+  * Payment[GMO, DGFT]
 
 ## Specialty Skills(特技)
 * Architect
@@ -43,35 +45,7 @@ Supported:
   * UDP, TCP/IPやSSL/TLS更にその上位レイヤーなど、ネットワークプロトコルスタックに対する基本的な理解と新たなプロトコルと実装などにも柔軟に対応できます。
 * Cloud Engineer
   * 各種クラウドにおいて、その特性を理解しサービスの扱いについてアーキテクチャを組み立てることができ、操作構築は中級程度の習熟度があります。
+  * IaCの現実を踏まえつつ、インフラのコードかを推進することを支持します。
+  * AWSにおける基本的なアーキテクチャの構成を理解し、要求に応じたサーバレス、非サーバレス環境の提案、設計、構築が行えます。
 * Payment / Settlement
   * クレジットカード、PayPayなど、複数のSDK, APIで実装の経験があり、決済系に関する知識を有し、設計や実装を担当することができます。
-
-## AWS Service Skillmap
-* Level A 構築したことがある。新規で立ち上げができ、サービスの詳細を把握し他のサービスとの連携や周辺設定が可能。
-* Level B 既に構築されているものに手を加えることをしたことがある、複数ある機能のうちいくつかを限定的に利用していた
-* Level C 動作するところを見たことがある、遠隔で使ったことがある
-
-|Service  |Level | Description                                                               |
-|---|--|---------------------------------------------------------------------------|
-|VPC  |A | Region, AZ, VPC, Subnet, Endpoint とネットワークのつなぎ込み。そこに根付く非サーバレス環境の構築・運用方法を把握 |
-|VPN | A | VPN Clientの環境を構築                                                          |
-|S3  |A | S3はさまざまなサービスと結びつくことが多く、その利用法のかなりの部分を理解しています                               |
-|Route53  |A  | 利用してドメインを取得、ゾーニング設定などDNS設定についておおよそのことができます                                            |
-|ACM | B | SSL証明書の発行とRoute53との連携                                                     |
-|ELB/ALB  | A | EC2やサブネットの接続点として利用したことがあり、SSL証明書の話も把握                                     |6  |
-|EC2  |A | 最近はコンテナを使うことがおおいのであまり使いませんが、基本的な設置から多重化まで幅広く対応できます                        |
-|ElastiCache  |B | Redisとしてセッション情報の置き場として利用                                                  |
-|ECS/ECR  |A | コンテナエンジン、イメージ置き場として日常的に利用                                                 |
-|CloudWatch  |B | Event:開発者として主にログなどの監視で利用 Rule:定期バッチの実行等で利用                                |
-|CodeCommit  |A | AWSの中で他のサービスと連携するためにGitのレポジトリとして利用                                        |
-|API Gateway  |A | REST APIのリバースプロクシや、lambdaを使いBFFとして利用                                      |
-|Amplify  | A | Reactプロジェクトを立ち上げて配備する                                                     |
-|Lambda | A | いろいろなサービスから呼び出して利用 sh, javam python等で記述デプロイ、VPCや各種サービスとのつなぎを把握            |
-|RDS | A | RDS, Auroraの運用、構築経験あり PostgreSQL9系列、MySQL 5.6, 5.7の構築管理運用等                |
-|SQS | A | キューイング機構について、fifoの有無と実装からの利用                                              |
-|IAM | A | ロールとユーザなどの関係、サービスとのつなぎこみ                                                  |
-|EKS | A | Kubernetes, Ingress, AWSインフラとのつなぎ込みで一通りのインフラ構築を経験                         |
-|SES | B | SQS, Lambdaと組み合わせて利用しています                                                 |
-|EKS | A | クラスタの設計や構築、各種サービスとのつなぎこみなど一通り経験                                           |
-|CDK | A | IaCの実施                                           |
-|PrivateLink | B | publicなendpointを経由せず、各種サービスへのつなぎこみを行えます                                   |
