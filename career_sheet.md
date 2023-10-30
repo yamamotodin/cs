@@ -1,9 +1,9 @@
 # Career Sheet
-Last Update: 2023-02-17
+Last Update: 2023-10-30
 
 ## Profile
 Name: DY  
-Age: 42  
+Age: 43
 Gender: Male  
 Mail: yamamotodin@gmail.com  
 MBTI: ESTP-A
@@ -13,10 +13,10 @@ Supported:
   * OS(Modile)[Android, ios, Linux]
   * Languages[TypeScript/JavaScript(ECMAScript 2015), sh, python, ~~Java(8,11,17), Dart, perl, C, C#, php, ttcn3~~]
     * Framework-JavaScript[node+express + prisma]
-    * Framework(Mobile)[Flutter, Android API]
     * Framework(Serverless)[TypeScript]
     * Framework(Node.js)[JavaScript, TypeScript]
     * ~~Framework(Java)[Spring(Boot)+mybatis|dao, tomcat, struts]~~
+    * ~~Framework(Mobile)[Flutter, Android API]~~
   * IDEs[IntelliJ, Eclipse, Visual Studio]
   * Databases[PostgreSQL, Oracle, MySQL，SQL Server]
   * SCMs[git*, svn, cvs, vsc]
@@ -24,7 +24,7 @@ Supported:
   * VM/Container[Kubernetes, Docker(containerd), KVM, VMWare]
   * DevOps/CI[Github Actions, Jenkins, Concourse CI]
   * Develop Management[Notion, Confluence, JIRA, Monday, GitLab, Backlog]
-  * AWS(サービス別スキルマップを後述)
+  * AWS(だいたいのことはCDKかCDKTFを用いて構築できます)
   * IaC[CDK, CDKTF, ARM Template]
   * Payment[GMO, DGFT]
 
@@ -50,5 +50,7 @@ Supported:
   * AWSにおける基本的なアーキテクチャの構成を理解し、要求に応じたサーバレス、非サーバレス環境の提案、設計、構築が行えます。
 * Database
   * データベースとSQLに関する改善およびシステム全体の最適化に関する知見を有します。
+* Security
+  * 基本的なセキュリティの概念と取り組みを理解しいくつかのソリューションについて経験があり、適切な取り組みができます。
 * Payment / Settlement
   * クレジットカード、PayPayなど、複数のSDK, APIで実装の経験があり、決済系に関する知識を有し、設計や実装を担当することができます。

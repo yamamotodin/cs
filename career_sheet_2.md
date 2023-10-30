@@ -1,19 +1,39 @@
 # Career Sheet(2/2)
-Last Update: 2022-04-11
+Last Update: 2023-10-30
 
 ## Careers
+
+### 海外製PaaS/SaaS導入のためのアーキテクト兼インフラエンジニア
+* 期間: 2023年04月 ~ 
+* ポジション: アーキテクト視点を持ったインフラエンジニアところによりプログラマ
+* 概要
+    * 海外製保険統合プラットフォームの導入際し、インフラ及びミドルウェアのセットアップ及び運用保守を担当
+    * CDK for Terraform によるインフラ構築の主導
+    * AWS上でEC2, RDS, OpenSearch, ElasticSearch, DocumentDB, Redis, CloudFront他多数のインフラ構築及びレビュー
+    * Serverless Framework(Typescript)による設計、構築、実装
+      * Cognitoによる認証基盤の整備、実装
+      * BFF補助APIの実装
+      * Github Flowによるレポジトリ運営の指導
+      * Github ActionsによるCI/CD
+    * MySQLデータベースのサポート
+    * Site24x7による運用監視の導入
+    * Imperva WAFやAWS WAFの導入
+    * その他SIer時代の経験を活かしたアドバイス
 
 ### 包括的なインフラサポート
 * 期間: 2023年04月 ~
 * ポジション: アーキテクト視点を持ったインフラエンジニア
 * 概要
-  * そこそこな規模のSaaSのAWSインフラの担当
-  * AWS CDKによるインフラ構築の主導
+  * 中規模SaaSのAWSインフラの担当
+  * AWS CDK(Typescript)によるインフラ構築の主導
   * 各種DWH(Azure, AWS, GCP)のメリデメ事前調査、コスト見積もりなど
   * Athena/Redshiftを利用したDWHのPoCおよび構築
+  * ログ取得APIの設計・実装
+    * Serverless Framework(Typescript) with API Gateway, Lambda Cloudwatch Logs, IAM等 
+  * DatadogによるAWS Kinesis, Lambda等のサーバレス系サービスの監視の検討と実施
 
 ### 金融系システム移行のVPoT
-* 期間: 2022年10月 ~ 
+* 期間: 2022年10月 ~ 2023年4月(一時中断)
 * ポジション: アーキテクト
 * プロジェクト概要
   * (VPoT) プロジェクト全体のソフトウェア・インフラのアーキテクチャの提案と裁定、及び折衝
