@@ -1,5 +1,5 @@
 # Career Sheet(2/2)
-Last Update: 2023-10-30
+Last Update: 2023-12-12
 
 ## Careers
 
@@ -19,6 +19,7 @@ Last Update: 2023-10-30
     * Site24x7による運用監視の導入
     * Imperva WAFやAWS WAFの導入
     * その他SIer時代の経験を活かしたアドバイス
+    * AWS Amplifyの導入
 
 ### 包括的なインフラサポート
 * 期間: 2023年04月 ~

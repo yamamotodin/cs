@@ -1,9 +1,9 @@
 # Career Sheet
-Last Update: 2023-10-30
+Last Update: 2023-12-12
 
 ## Profile
 Name: DY  
-Age: 43
+Age: 44
 Gender: Male  
 Mail: yamamotodin@gmail.com  
 MBTI: ESTP-A
@@ -35,7 +35,7 @@ Supported:
 * Programmer
   * スタブ作成やちょっとした集計などの隙間言語として LinuxのCIかJavaScript/TypeScript を好んで使います。
   * 基本・詳細・実装、テスト、運用工程の知識と経験を持ち合わせています。
-  * TypeScriptとServerless/node.jsの組み合わせに最近傾注しています。まだビギナークラスですが伸ばしていきたいです。
+  * TypeScriptとServerless　Framework/node.jsの組み合わせに最近注目しています。
   * ~~標準的なJavaのプログラマです、コンパイラのバグを疑うときはOpenJDKのコードを読みますがOpenJDKの開発者ではありません。~~(Java17までの技術、知識、経験を持ちますがもう実装に興味はありません)
   * UI, API, Batch, 非同期処理などの基本的なアーキテクチャを理解し、**UI以外の**実装ができます。。
 * Agile Scrum
@@ -53,4 +53,5 @@ Supported:
 * Security
   * 基本的なセキュリティの概念と取り組みを理解しいくつかのソリューションについて経験があり、適切な取り組みができます。
 * Payment / Settlement
-  * クレジットカード、PayPayなど、複数のSDK, APIで実装の経験があり、決済系に関する知識を有し、設計や実装を担当することができます。
+  * クレジットカード、PayPayなど、複数の決済系SDK, APIで実装の経験と知見があり、設計や実装を担当することができます。
+
