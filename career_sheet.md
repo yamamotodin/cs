@@ -1,12 +1,12 @@
 # Career Sheet
-Last Update: 2024-03-01
+Last Update: 2024-03-22
 
 ## Profile
 Name: DY  
-Age: 44
+Age: 44  
 Gender: Male  
-Mail: yamamotodin@gmail.com  
-MBTI: ESTP-A
+Mail: yamamotodin@gmail.com, yamamotodin@kujirabo.jp  
+MBTI: ESTP-A  
 
 Supported:
   * OS[Linux(Amazon, RHEL, Fedora), Windows(not Server), MacOS(10, 11, 12), Solaris(8)]
@@ -24,8 +24,8 @@ Supported:
   * VM/Container[Kubernetes, Docker(containerd), KVM, VMWare]
   * DevOps/CI[Github Actions, Jenkins, Concourse CI]
   * Develop Management[Notion, Confluence, JIRA, Monday, GitLab, Backlog]
-  * AWS(だいたいのことはCDKかCDKTFを用いて構築できます)
-  * IaC[CDK, CDKTF, ARM Template]
+  * AWS(おおよそのことはCDKかCDKTFを用いて構築、実現できます)
+  * IaC[CDK(ts, py, java), CDKTF(ts), ARM Template]
   * Payment[GMO, DGFT]
 
 ## Specialty Skills(特技)
@@ -46,7 +46,7 @@ Supported:
   * UDP, TCP/IPやSSL/TLS更にその上位レイヤーなど、ネットワークプロトコルスタックに対する基本的な理解と新たなプロトコルと実装などにも柔軟に対応できます。
 * Cloud Engineer
   * 各種クラウドにおいて、その特性を理解しサービスの扱いについてアーキテクチャを組み立てることができ、操作構築は中級程度の習熟度があります。
-  * IaCの現実を踏まえつつ、インフラのコードかを推進することを支持します。
+  * IaCの現実を踏まえつつ、インフラのコード化の推進を支持します。
   * AWSにおける基本的なアーキテクチャの構成を理解し、要求に応じたサーバレス、非サーバレス環境の提案、設計、構築が行えます。
 * Database
   * データベースとSQLに関する改善およびシステム全体の最適化に関する知見を有します。
