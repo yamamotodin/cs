@@ -1,7 +1,14 @@
 # Career Sheet(2/2)
-Last Update: 2024-03-01
+Last Update: 2024-05-09
 
 ## Careers
+
+### SREエンジニアリング
+* 期間: 2024年03月 ~ 2024年05月
+* ポジション: スポットでトラブルシューター
+* 概要
+  * (Front/SPA) Google Analytics 4/Google Tag Managerまわりのトラブルシューティング with Angular実装込み
+  * (Infra/AWS) EC2の自動オートスケーリング関連の調査と実装 https://github.com/yamamotodin/awscli-lambda-layer
 
 ### 海外製PaaS/SaaS導入のためのアーキテクト兼インフラエンジニア
 * 期間: 2023年04月 ~ 2024年3月
