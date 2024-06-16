@@ -10,7 +10,7 @@ MBTI: ESTP-A
 
 Supported:
   * OS[Linux(Amazon, RHEL, Fedora), Windows(not Server), MacOS(10, 11, 12), Solaris(8)]
-  * OS(Modile)[Android, ios, Linux]
+  * OS(Mobile)[Android, ios, Linux]
   * Languages[TypeScript/JavaScript(ECMAScript 2015), sh, python, ~~Java(8,11,17), Dart, perl, C, C#, php, ttcn3~~]
     * Framework-JavaScript[node+express + prisma]
     * Framework(Serverless)[TypeScript]
