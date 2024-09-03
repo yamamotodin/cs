@@ -1,5 +1,5 @@
 # Career Sheet(2/2)
-Last Update: 2024-07-29
+Last Update: 2024-09-04
 
 ## Careers
 
@@ -57,12 +57,16 @@ Last Update: 2024-07-29
 * ジャンル： SaaS(BtoB)
 * 概要
   * 中規模SaaSのAWSインフラの担当
-  * AWS CDK(Typescript)によるインフラ構築の主導
+  * AWS CDK(TypeScript)によるインフラ構築の主導
   * 各種DWH(Azure, AWS, GCP)のメリデメ事前調査、コスト見積もりなど
   * Athena/Redshiftを利用したDWHのPoCおよび構築
   * ログ取得APIの設計・実装
     * Serverless Framework(Typescript) with API Gateway, Lambda Cloudwatch Logs, IAM等 
   * DatadogによるAWS Kinesis, Lambda等のサーバレス系サービスの監視の検討と実施
+  * Azure CDKTF(TypeScript)によるインフラ構築
+    * Web Apps(Linux Container, Code), Static Web Apps
+    * Functions
+    * Front Door
 
 ### 金融系システム移行のVPoT
 * 期間: 2022年10月 ~ 2023年4月
