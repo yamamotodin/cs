@@ -1,7 +1,26 @@
 # Career Sheet(2/2)
-Last Update: 2024-09-04
+Last Update: 2024-09-28
 
 ## Careers
+
+### OpenAIを利用したプロダクトのAzureインフラ構築
+* 期間: 2024年07月 ~
+* ポジション: 実装もできるアーキテクト兼インフラエンジニア
+* ジャンル：コールセンター
+* 概要
+  * プロダクトの中でゼロからインフラを構築する役割をメインとし、フルスタックエンジニアとして全体を見通しつつアーキテクチャを提案する役割です。
+  * CDK for Terraformを用いたAzureインフラの構築(マルチクラウド)
+    * Azure
+      * Web Apps
+      * Function Apps
+      * Static Web Apps
+      * Front Door
+      * Storage Account
+    * AWS
+      * Route53
+    * DataDog
+  * Github Actionsを用いたWorkflow(CI/CD)の作成とカスタマイズ
+  * IaC, Front, Backendの言語は TypeScript
 
 ### Android/IOS アプリ作成
 * 期間: 2024年06月 ~ 
