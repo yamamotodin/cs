@@ -1,5 +1,5 @@
 # Career Sheet(2/2)
-Last Update: 2024-09-28
+Last Update: 2024-12-06
 
 ## Careers
 
@@ -16,6 +16,8 @@ Last Update: 2024-09-28
       * Static Web Apps
       * Front Door
       * Storage Account
+      * Event Hub
+      * PostgreSQL Flexible Server
     * AWS
       * Route53
     * DataDog
