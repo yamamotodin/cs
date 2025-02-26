@@ -1,5 +1,5 @@
 # Career Sheet
-Last Update: 2024-09-03
+Last Update: 2025-02-26
 
 ## Profile
 Name: DY  
@@ -22,16 +22,17 @@ Supported:
   * SCMs[git*, svn, cvs, vsc]
   * Cloud Platforms[AWS, Azure]
   * VM/Container[Kubernetes, Docker(containerd), KVM, VMWare]
-  * AWS,Azure(おおよそのことはCDKかCDKTFを用いて構築、実現できます)
+  * AWS, Azure(おおよそのことはCDKかCDKTFを用いて構築、実現できます)
   * IaC[CDK(ts, py, java), CDKTF(ts), ARM Template]
   * DevOps/CI[Github Actions, Jenkins, Concourse CI]
   * Develop Management[Notion, Confluence, JIRA, Monday, GitLab, Backlog]
   * Payment[GMO, DGFT]
 
 ## Specialty Skills(特技)
-* Architect
+* Architect / Consulting
   * 開発標準を推進、指導する立場として、各種の業務を行ってきました。
   * 開発からインフラや運用のこと見据えを考え、橋渡しをする役割が担えます。
+  * 要求仕様などから最適なアーキテクチャや方法の提案、助言等が行えます。
 * Programmer
   * スタブ作成やちょっとした集計などの隙間言語として LinuxのCIかJavaScript/TypeScript を好んで使います。
   * 基本・詳細・実装、テスト、運用工程の知識と経験を持ち合わせています。
