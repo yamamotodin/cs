@@ -1,19 +1,21 @@
 # Career Sheet(2/2)
-Last Update: 2025-02-26
+Last Update: 2025-04-21
 
 ## Careers
 
 ### 金融系AWSコンサル・PoC実施
-* 期間: 2025年01月 ~ 03月
+* 期間: 2025年01月 ~ 
 * ポジション: 手を動かせるコンサル
 * ジャンル：証券・大手SIer
 * 概要
-    * 証券系外郭システムのシステム更新に絡むインフラ及びアーキテクチャ等の助言
+  * 証券系外郭システムのシステム更新に絡むPoCやインフラ及びアーキテクチャ等の助言
     * CDK 用いた PoC環境の作成
         * AWS
           * VPC, フロント系、コンテナ系、Code Pipeline系のサービス
     * Gitブランチの運用戦略策定
     * CI/CDの実証環境構築
+    * EC2 S3のコピー性能限界調査
+    * 課題となるPoCへのもろもろサポート
 
 ### OpenAIを利用したプロダクトのAzureインフラ構築
 * 期間: 2024年07月 ~
@@ -23,23 +25,29 @@ Last Update: 2025-02-26
   * プロダクトの中でゼロからインフラを構築する役割をメインとし、フルスタックエンジニアとして全体を見通しつつアーキテクチャを提案、実施する役割です。
   * CDK for Terraformを用いたAzureインフラの構築(マルチクラウド)
     * Azure
-      * Web Apps
+      * ~~Web Apps~~
       * Function Apps
-      * Static Web Apps
-      * Function Apps
-      * Front Door
+      * ~~Static Web Apps~~
+      * Front Door + WAF
+      * ~~Key Vault~~
       * Storage Account
       * Event Hub
-      * PostgreSQL Flexible Server (16)
+      * ~~PostgreSQL Flexible Server (16)~~
     * AWS
       * Route53
+      * EC2
+      * S3
+      * ECS
+      * Secret Manager
+      * Aurora PostgreSQL (16)
     * DataDog
   * GitHub Actions Workflow(CI/CD)の作成と保守
   * プログラミング言語はすべて TypeScriptで統一
   * Azureから一部インフラをAWSに移し替えをCDKTFでコントロールしつつ移管中
+  * IaCベースの運用ルールを策定しインフラ運用を主導
 
 ### Android/IOS アプリ作成
-* 期間: 2024年06月 ~ 
+* 期間: 2024年06月 ~ 2024年10月
 * ポジション: 開発者（設計/実装/構築）
 * ジャンル：学校教育
 * 概要
