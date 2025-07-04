@@ -1,5 +1,5 @@
 # Career Sheet(2/2)
-Last Update: 2025-04-21
+Last Update: 2025-07-04
 
 ## Careers
 
@@ -10,12 +10,13 @@ Last Update: 2025-04-21
 * 概要
   * 証券系外郭システムのシステム更新に絡むPoCやインフラ及びアーキテクチャ等の助言
     * CDK 用いた PoC環境の作成
-        * AWS
-          * VPC, フロント系、コンテナ系、Code Pipeline系のサービス
+      * VPC, フロント系、コンテナ系、Code * 系のサービス
     * Gitブランチの運用戦略策定
-    * CI/CDの実証環境構築
+    * Self Managed Gitlab EE
+    * Code Pipelineを用いたCI/CDの実証環境構築
     * EC2 S3のコピー性能限界調査
     * 課題となるPoCへのもろもろサポート
+    * AWSクロスアカウントでの権限管理
 
 ### OpenAIを利用したプロダクトのAzureインフラ構築
 * 期間: 2024年07月 ~

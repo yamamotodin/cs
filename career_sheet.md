@@ -1,9 +1,9 @@
 # Career Sheet
-Last Update: 2025-04-21
+Last Update: 2025-07-04
 
 ## Profile
 Name: DY  
-Age: 44  
+Age: 45  
 Gender: Male  
 Mail: yamamotodin@gmail.com, yamamotodin@kujirabo.jp  
 MBTI: ESTP-A  
@@ -22,11 +22,12 @@ Supported:
   * SCMs[git*, svn, cvs, vsc]
   * Cloud Platforms[AWS, Azure]
   * VM/Container[Kubernetes, Docker(containerd), KVM, VMWare]
-  * AWS, Azure(おおよそのことはCDKかCDKTFを用いて構築、実現できます)
+  * AWS, Azure(おおよそのことはCDKかCDK for Terraformを用いて構築、実現できます)
   * IaC[CDK(ts, py, java), CDKTF(ts), ARM Template]
-  * DevOps/CI[Github Actions, Jenkins, Concourse CI]
+  * DevOps/CI[Github Actions, AWs Code Pipeline, Jenkins, Concourse CI]
   * Develop Management[Notion, Confluence, JIRA, Monday, GitLab, Backlog]
   * Payment[GMO, DGFT]
+  * AIの利用(Claude Code)
 
 ## Specialty Skills(特技)
 * Architect / Consulting
@@ -37,7 +38,7 @@ Supported:
   * スタブ作成やちょっとした集計などの隙間言語として LinuxのCIかJavaScript/TypeScript を好んで使います。
   * 基本・詳細・実装、テスト、運用工程の知識と経験を持ち合わせています。
   * TypeScriptとServerless　Framework/node.jsの組み合わせに最近注目しています。
-  * ~~標準的なJavaのプログラマです、コンパイラのバグを疑うときはOpenJDKのコードを読みますがOpenJDKの開発者ではありません。~~(Java17までの技術、知識、経験を持ちますがもう実装に興味はありません)
+  * ~~標準的なJavaのプログラマです、コンパイラのバグを疑うときはOpenJDKのコードを読みますがOpenJDKの開発者ではありません。~~(Java1.4~Java21までの25年間の技術、知識、経験を持ちますがあまり好みではないです)
   * UI, API, Batch, 非同期処理などの基本的なアーキテクチャを理解し、**UI以外の**実装ができます。。
 * Agile Scrum
   * スクラムを解しスクラムマスター経験があります。
@@ -48,7 +49,7 @@ Supported:
 * Cloud Engineer
   * AWSとAzureにおける基本的なアーキテクチャの構成を理解し、要求に応じたサーバレス、非サーバレス環境の提案、設計、構築が行えます。
   * 各種クラウドにおいて、サーバレスとコンピューティングリソースの特性を理解しアーキテクチャを組み立てることができます。
-  * IaC(CDKTF, CDK推奨、サブ知識としてそのベースとなるTerraform, CloudFormation, ARM)の現実を踏まえつつ、インフラのコード化の推進を支持します。
+  * IaC(CDKまたはCDKTF推奨、サブ知識としてそのベースとなるTerraform, CFn, ARM)の現実を踏まえつつ、インフラのコード化の推進を支持します。
 * Database
   * データベースの構築、スキーマ設計、開発、運用とチューニングおよびシステム全体の最適化に関する知見を有します。
 * Security
