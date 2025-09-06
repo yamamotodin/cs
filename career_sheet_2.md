@@ -1,7 +1,19 @@
 # Career Sheet(2/2)
-Last Update: 2025-07-04
+Last Update: 2025-09-06
 
 ## Careers
+
+### プライベートクラウドからAWSへの移行支援
+* 期間: 2025年07月 ~
+* ポジション: 手を動かせるコンサル
+* ジャンル：自動部品製造系
+* 概要
+  * 包括的なAWSの相談
+  * PoC
+    * AWS IoT Core(MQTT)
+    * AWS Cognito
+    * CDK for Terraform
+    * その他もろもろ今風の開発指南
 
 ### 金融系AWSコンサル・PoC実施
 * 期間: 2025年01月 ~ 
@@ -11,12 +23,11 @@ Last Update: 2025-07-04
   * 証券系外郭システムのシステム更新に絡むPoCやインフラ及びアーキテクチャ等の助言
     * CDK 用いた PoC環境の作成
       * VPC, フロント系、コンテナ系、Code * 系のサービス
+    * AWASクロスアカウントにおけるCI/CD(Code Pipeline他)の検証と推進
     * Gitブランチの運用戦略策定
-    * Self Managed Gitlab EE
-    * Code Pipelineを用いたCI/CDの実証環境構築
-    * EC2 S3のコピー性能限界調査
+    * Self Managed Gitlab EEの導入
+    * EC2-S3間の性能限界調査
     * 課題となるPoCへのもろもろサポート
-    * AWSクロスアカウントでの権限管理
 
 ### OpenAIを利用したプロダクトのAzureインフラ構築
 * 期間: 2024年07月 ~

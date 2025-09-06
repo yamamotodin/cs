@@ -1,5 +1,5 @@
 # Career Sheet
-Last Update: 2025-07-04
+Last Update: 2025-9-06
 
 ## Profile
 Name: DY  
@@ -24,7 +24,7 @@ Supported:
   * VM/Container[Kubernetes, Docker(containerd), KVM, VMWare]
   * AWS, Azure(おおよそのことはCDKかCDK for Terraformを用いて構築、実現できます)
   * IaC[CDK(ts, py, java), CDKTF(ts), ARM Template]
-  * DevOps/CI[Github Actions, AWs Code Pipeline, Jenkins, Concourse CI]
+  * DevOps/CI[Github Actions, AWS Code Pipeline, Jenkins, Concourse CI]
   * Develop Management[Notion, Confluence, JIRA, Monday, GitLab, Backlog]
   * Payment[GMO, DGFT]
   * AIの利用(Claude Code)
