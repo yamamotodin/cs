@@ -13,6 +13,7 @@ Last Update: 2025-09-06
     * AWS IoT Core(MQTT)
     * AWS Cognito
     * CDK for Terraform
+    * 運用監視設計
     * その他もろもろ今風の開発指南
 
 ### 金融系AWSコンサル・PoC実施
