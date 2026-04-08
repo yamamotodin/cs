@@ -24,7 +24,7 @@ Last Update: 2025-09-06
   * 証券系外郭システムのシステム更新に絡むPoCやインフラ及びアーキテクチャ等の助言
     * CDK 用いた PoC環境の作成
       * VPC, フロント系、コンテナ系、Code * 系のサービス
-    * AWASクロスアカウントにおけるCI/CD(Code Pipeline他)の検証と推進
+    * AWSクロスアカウントにおけるCI/CD(Code Pipeline他)の検証と推進
     * Gitブランチの運用戦略策定
     * Self Managed Gitlab EEの導入
     * EC2-S3間の性能限界調査
