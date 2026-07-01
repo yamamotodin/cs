@@ -1,5 +1,5 @@
 # Career Sheet(2/2)
-Last Update: 2025-09-06
+Last Update: 2026-06-25
 
 ## Careers
 
@@ -14,7 +14,7 @@ Last Update: 2025-09-06
     * AWS Cognito
     * CDK for Terraform
     * 運用監視設計
-    * その他もろもろ今風の開発指南
+    * その他テクニカルアドバイス
 
 ### 金融系AWSコンサル・PoC実施
 * 期間: 2025年01月 ~ 
@@ -27,11 +27,11 @@ Last Update: 2025-09-06
     * AWSクロスアカウントにおけるCI/CD(Code Pipeline他)の検証と推進
     * Gitブランチの運用戦略策定
     * Self Managed Gitlab EEの導入
-    * EC2-S3間の性能限界調査
+    * AWSインフラの性能限界調査
     * 課題となるPoCへのもろもろサポート
 
-### OpenAIを利用したプロダクトのAzureインフラ構築
-* 期間: 2024年07月 ~
+### OpenAIを利用したプロダクトのAzure, AWSインフラ構築
+* 期間: 2024年07月 ~ 2026年08月
 * ポジション: 実装もできるアーキテクト兼インフラエンジニア
 * ジャンル：コールセンター
 * 概要
@@ -47,16 +47,19 @@ Last Update: 2025-09-06
       * Event Hub
       * ~~PostgreSQL Flexible Server (16)~~
     * AWS
+      * CloudFront
       * Route53
       * EC2
       * S3
-      * ECS
+      * ALB, ECS
       * Secret Manager
-      * Aurora PostgreSQL (16)
+      * NLB, Aurora PostgreSQL (16)
+      * API Gateway, RDS Proxy
+      * Verified Access
     * DataDog
   * GitHub Actions Workflow(CI/CD)の作成と保守
   * プログラミング言語はすべて TypeScriptで統一
-  * Azureから一部インフラをAWSに移し替えをCDKTFでコントロールしつつ移管中
+  * AzureからインフラをAWSに移し替え
   * IaCベースの運用ルールを策定しインフラ運用を主導
 
 ### Android/IOS アプリ作成

@@ -1,22 +1,22 @@
 # Career Sheet
-Last Update: 2026-04-08
+Last Update: 2026-06-25
 
 ## Profile
 Name: DY  
-Age: 45  
+Age: 46  
 Gender: Male  
 Mail: yamamotodin@gmail.com, yamamotodin@kujirabo.jp  
 MBTI: ESTP-A  
 
 Supported:
-  * OS[Linux(Amazon, RHEL, Fedora), Windows(not Server), MacOS(10, 11, 12), Solaris(8)]
+  * OS[Linux(Amazon, RHEL, Fedora), Windows(not Server), MacOS(10~), Solaris(8)]
   * OS(Mobile)[Android, ios, Linux]
   * Languages[TypeScript/JavaScript(ECMAScript 2015), sh, python, ~~Java(8,11,17), Dart, perl, C, C#, php, ttcn3~~]
     * Framework-JavaScript[node+express/fastify + prisma]
     * Framework(Serverless)[TypeScript]
     * Framework(Node.js)[JavaScript, TypeScript]
-    * ~~Framework(Java)[Spring(Boot)+mybatis|dao, tomcat, struts]~~
-    * ~~Framework(Mobile)[Flutter, Android API]~~
+    * Framework(Java)[Spring(Boot)+mybatis|dao, tomcat, struts]
+    * Framework(Mobile)[Flutter, Android API]
   * IDEs[IntelliJ, Eclipse, Visual Studio]
   * Databases[PostgreSQL, Oracle, MySQL，SQL Server]
   * SCMs[git*, svn, cvs, vsc]
@@ -39,7 +39,8 @@ Supported:
   * 基本・詳細・実装、テスト、運用工程の知識と経験を持ち合わせています。
   * TypeScriptが最近の主な言語です。
   * JDK 1.4 ~ JDK21 までの標準的なJavaのプログラマでした。
-  * UI, API, Batch, 非同期処理などの基本的なアーキテクチャを理解し、UI以外の実装ができます。。
+  * UI, API, Batch, 非同期処理などの基本的なアーキテクチャを理解し、UI以外の実装ができます。
+  * Claude Codeを利用します
 * Cloud Engineer
     * インフラ屋さんです。
     * AWSとAzureにおける基本的なアーキテクチャの構成を理解し、要求に応じたサーバレス、非サーバレス環境の提案、設計、構築が行えます。
