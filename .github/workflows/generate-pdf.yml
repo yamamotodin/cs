@@ -1,0 +1,44 @@
+name: Generate PDF
+
+on:
+  push:
+    paths:
+      - 'career_sheet.md'
+      - 'career_sheet_2.md'
+  workflow_dispatch: {}
+
+jobs:
+  generate-pdf:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install markdown-pdf
+        run: npm install -g markdown-pdf
+
+      - name: Generate PDFs
+        run: |
+          markdown-pdf career_sheet.md -o career_sheet.pdf
+          markdown-pdf career_sheet_2.md -o career_sheet_2.pdf
+          markdown-pdf career_sheet.md career_sheet_2.md -o career_sheet_joint.pdf
+
+      - name: Commit and push PDFs
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add career_sheet.pdf career_sheet_2.pdf career_sheet_joint.pdf
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update generated PDFs" -m "🤖 Generated with [Claude Code](https://claude.com/claude-code)" -m "Co-Authored-By: Claude <noreply@anthropic.com>"
+            git push
+          fi
