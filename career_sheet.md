@@ -1,5 +1,5 @@
 # Career Sheet (1/2) — Profile & Skills
-Last Update: 2026-07-30
+Last Update: 2026-10-28
 
 ## Profile
 * Name: DY
@@ -58,7 +58,10 @@ Claude Code をはじめとするAIを日常的に活用しており、コード
 * データベースの構築、スキーマ設計、開発、運用、チューニング、およびシステム全体の最適化に関する知見を有します(1億行超のデータのチューニング実績あり)。
 
 ### Security
-* 基本的なセキュリティ概念と取り組みを理解し、WAF(Imperva, AWS WAF)等のソリューション導入経験に基づいた適切な対応ができます。
+* 専門家ではありませんが基本的なセキュリティ概念と取り組みを理解し、下記の領域をカバーします。
+  * アプリケーション施策
+  * クラウド上の施策 (Imperva, AWS WAF, SecurityHub, Inspector等)
+  * 上記の複合（恒常的なパッチ適用速度の向上、AIを用いたループエンジニアリング的な対処、AIOps）
 
 ### Payment / Settlement
 * クレジットカード、PayPayなど複数の決済系SDK/API(GMO, DGFT/ベリトランス)の設計・実装経験と知見があります。
